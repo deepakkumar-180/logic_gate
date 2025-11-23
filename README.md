@@ -1,5 +1,4 @@
 # logic_gate
-### study-of-basic-gates
 
 **AIM:** 
 
